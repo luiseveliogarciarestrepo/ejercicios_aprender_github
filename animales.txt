@@ -6,6 +6,7 @@ león
 chita
 leopardo
 lince
+hormiga
+mariposa
 ternero
 potro
-
