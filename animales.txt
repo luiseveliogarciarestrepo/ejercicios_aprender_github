@@ -8,3 +8,5 @@ leopardo
 lince
 hormiga
 mariposa
+ternero
+potro
