@@ -4,3 +4,5 @@ gato
 tigre
 león
 chita
+leopardo
+lince
