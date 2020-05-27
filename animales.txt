@@ -10,3 +10,5 @@ hormiga
 mariposa
 ternero
 potro
+computador
+mouse
